@@ -8,3 +8,5 @@
 **Education:** Computer science student at Tbilisi State University, Learning Javascript/HTML/CSS at BitCamp project.  
 **Code Examples:** I've made Calculator apps in both, C++ and Java, few little games in Javascript. **[Here's link of my latest minigame](https://codehs.com/sandbox/id/new-sandbox-program-OWfal3)**  
 **English:** I work at English speaking company since 2018 and have more than 3 years of experience in writing and speaking.
+
+**Thank you!**
