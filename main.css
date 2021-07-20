@@ -1,6 +1,6 @@
 body {
   max-width: 1600px;
-  background-image: url(/assets/bg-imagebackground.png);
+  background-image: url(./assets/bg-imagebackground.png);
   background-repeat: no-repeat;
   background-position-x: center;
   margin: auto;
